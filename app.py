@@ -18,7 +18,7 @@ st.write(
     "ACL region using a fine-tuned SegFormer model."
 )
 
-MODEL_ID = "AjraBaluch488/knee-mri-acl-localization"
+MODEL_ID = "hajirabaloch488/knee-mri-acl-localization"
 
 @st.cache_resource
 def load_model():
