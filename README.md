@@ -11,7 +11,7 @@ https://zenodo.org/records/7977297
 nvidia/segformer-b0-finetuned-ade-512-512
 
 ## Fine-Tuned Model
-https://huggingface.co/AjraBaluch488/knee-mri-acl-localization
+https://huggingface.co/hajirabaloch488/knee-mri-acl-localization
 
 ## Technologies
 - Python
